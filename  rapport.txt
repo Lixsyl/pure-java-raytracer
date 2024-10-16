@@ -1,0 +1,5 @@
+TME 6 :
+
+2) La double boucle parcours tous les block de l'image, calcule les nouvelles coordonnees de block et recree la scene
+
+3)
