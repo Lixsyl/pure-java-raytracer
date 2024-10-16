@@ -1,5 +1,31 @@
 TME 6 :
 
 2) La double boucle parcours tous les block de l'image, calcule les nouvelles coordonnees de block et recree la scene
+4) synchronized
+5)  v1:
+	Rendered in 1331ms
+	Rendered in 1400ms
+	Rendered in 1480ms
+	Rendered in 1317ms
+	Rendered in 1388ms
+	Rendered in 1319ms
+	Rendered in 1462ms
+	v2:
+	Rendered in 1606ms
+	Rendered in 2967ms
+	Rendered in 3166ms
+	Rendered in 3168ms
+	Rendered in 3187ms
+	Rendered in 3165ms
+	Rendered in 3186ms
+	v3:
+	Rendered in 139ms
+	Rendered in 138ms
+	Rendered in 125ms
+	Rendered in 126ms
+	Rendered in 142ms
+	Rendered in 135ms
+	Rendered in 135ms
+	Rendered in 126ms
+6)
 
-3)
